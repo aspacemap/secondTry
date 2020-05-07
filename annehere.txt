@@ -15,3 +15,5 @@ I change again go off
 once more to make it work
 
 afternoon after come back, I try again...using desktop icon
+
+but server said this is not enought, you need to make sure pull is ok
